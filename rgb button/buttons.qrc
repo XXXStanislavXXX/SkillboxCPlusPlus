@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>buttons/green_circle.png</file>
+        <file>buttons/yellow_circle.png</file>
+        <file>buttons/red_circle.png</file>
+    </qresource>
+</RCC>
